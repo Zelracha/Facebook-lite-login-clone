@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+hr.solid {
+    background-color: gray;
+}
+
+#f-head {
+    font-size: 1em;
+    text-align: center;
+    color: gray;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+}
+
+label {
+    display: block;
+}
+
+input {
+    width: 100%;
+    margin: 10px 0 10px 0;
+}
+
+input {
+    background-color: #F3F3F3;
+    min-height: 2.6em;
+}
+
+#txt {
+    border: 2px solid #0bbeda;
+}
+
+#txt2 {
+    border: 2px solid #aaaaaa;
+}
+
+label {
+    font-size: 17px;
+}
+
+#btn-login {
+    border: none;
+    background-color: #5693fe;
+    width: 100%;
+    height: 2.8em;
+}
+
+#login-text {
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#forgot, #a-lang,
+#more {
+    color: #08458f;;
+    text-decoration: none;
+}
+
+#line {
+    font-weight: 600;
+    width: 80%; 
+    text-align: center; 
+    border-bottom: 0.1px solid grey; 
+    line-height: 0.1em;
+    margin: 30px; 
+}
+
+#word {
+    background:#fff; 
+    padding:0 10px; 
+}
+
+#create-text {
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+#btn-create {
+    border: none;
+    background-color: #30a34a;
+    width: 50%;
+    height: 2.8em;
+    display: block;
+    margin: auto;
+}
+
+.language {
+    margin-left: 10px;
+}
